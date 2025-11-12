@@ -30,7 +30,7 @@
  * @param {string} url - The input URL or text
  * @returns {string} - The same string without protocol prefix
  */
-export default function trimHttp(url) {
+function trimHttp(url) {
     if (typeof url !== 'string') return url;
 
     // Early exit for obviously short values
@@ -42,3 +42,6 @@ export default function trimHttp(url) {
 
     return url;
 }
+
+export {trimHttp}
+export default trimHttp
