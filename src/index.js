@@ -1,6 +1,6 @@
 /*
  * trim-http
- * https://alexstevovich.com/r/trim-http-nodejs
+ * https://alexstevovich.com/a/trim-http-nodejs
  *
  * Copyright (c) 2015–2025 Alex Stevovich
  *

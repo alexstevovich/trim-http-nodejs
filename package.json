@@ -1,13 +1,13 @@
 {
     "name": "trim-http",
-    "version": "1.0.0",
-    "homepage": "https://alexstevovich.com/r/trim-http-nodejs",
+    "version": "1.0.1",
+    "homepage": "https://alexstevovich.com/a/trim-http-nodejs",
     "author": {
         "name": "Alex Stevovich",
         "email": "dev@alexstevovich.com",
         "url": "https://alexstevovich.com"
     },
-    "description": "Removes the http:// or https:// prefix from a URL string.",
+    "description": "Removes the http:// or https:// prefix from a URL string",
     "type": "module",
     "main": "./src/index.js",
     "files": [
